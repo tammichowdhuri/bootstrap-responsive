@@ -1,0 +1,17 @@
+h1{
+	font size: 50px;
+	color: red;
+	background-color: lightgray;
+	margin: 0 10% 70px;
+	text-align: center;
+	padding: 10px;
+}
+
+.box{
+	font-size: 50px;
+	min-height: 30vh;
+	min-height:30vh;
+	background-color: red;
+	margin: 0 10% 70px;
+	text-align: center;
+}
